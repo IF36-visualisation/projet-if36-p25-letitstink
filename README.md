@@ -115,7 +115,7 @@ Nous souhaitons répondre aux questions suivantes :
 - **Biais régionaux** : Les styles de jeu varient selon les régions.
 - **Taille des échantillons** : Certaines ligues peuvent être sous-représentées.
 
-Nos analyses se feront via **Python (pandas, seaborn, matplotlib)** pour la manipulation et la visualisation des données.
+Nos analyses se feront via **R Studio** pour la manipulation et la visualisation des données.
 
 ---
 📁 **Les fichiers de données seront stockés dans le dossier dédié du repository.**
